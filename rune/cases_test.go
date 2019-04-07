@@ -21,7 +21,7 @@ var testCases = []struct {
 	{
 		"GGACTGAAATCTG",
 		"GGACTGAAATCTG",
-		9,
+		0,
 		false,
 	},
 	{
